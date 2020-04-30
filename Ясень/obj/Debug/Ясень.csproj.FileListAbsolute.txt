@@ -1,0 +1,45 @@
+E:\Yни\САОД\Ясень\Ясень\bin\Debug\Ясень.exe.config
+E:\Yни\САОД\Ясень\Ясень\bin\Debug\Ясень.exe
+E:\Yни\САОД\Ясень\Ясень\bin\Debug\Ясень.pdb
+E:\Yни\САОД\Ясень\Ясень\obj\Debug\Ясень.csprojResolveAssemblyReference.cache
+E:\Yни\САОД\Ясень\Ясень\obj\Debug\Ясень.Form1.resources
+E:\Yни\САОД\Ясень\Ясень\obj\Debug\Ясень.Properties.Resources.resources
+E:\Yни\САОД\Ясень\Ясень\obj\Debug\Ясень.csproj.GenerateResource.Cache
+E:\Yни\САОД\Ясень\Ясень\obj\Debug\Ясень.exe
+E:\Yни\САОД\Ясень\Ясень\obj\Debug\Ясень.pdb
+C:\Users\User\Downloads\Ясень\Ясень\bin\Debug\Ясень.exe.config
+C:\Users\User\Downloads\Ясень\Ясень\obj\Debug\Ясень.exe
+C:\Users\User\Downloads\Ясень\Ясень\obj\Debug\Ясень.pdb
+C:\Users\User\Downloads\Ясень\Ясень\bin\Debug\Ясень.exe
+C:\Users\User\Downloads\Ясень\Ясень\bin\Debug\Ясень.pdb
+C:\Users\User\Downloads\Ясень\Ясень\obj\Debug\Ясень.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Ясень\Ясень\obj\Debug\Ясень.Form1.resources
+C:\Users\User\Downloads\Ясень\Ясень\obj\Debug\Ясень.Properties.Resources.resources
+C:\Users\User\Downloads\Ясень\Ясень\obj\Debug\Ясень.csproj.GenerateResource.Cache
+E:\Ясень 2\Ясень\bin\Debug\Ясень.exe.config
+E:\Ясень 2\Ясень\obj\Debug\Ясень.exe
+E:\Ясень 2\Ясень\obj\Debug\Ясень.pdb
+E:\Ясень 2\Ясень\bin\Debug\Ясень.exe
+E:\Ясень 2\Ясень\bin\Debug\Ясень.pdb
+E:\Ясень 2\Ясень\obj\Debug\Ясень.csprojResolveAssemblyReference.cache
+E:\Ясень 2\Ясень\obj\Debug\Ясень.Form1.resources
+E:\Ясень 2\Ясень\obj\Debug\Ясень.Properties.Resources.resources
+E:\Ясень 2\Ясень\obj\Debug\Ясень.csproj.GenerateResource.Cache
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\bin\Debug\Ясень.exe.config
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.exe
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.pdb
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\bin\Debug\Ясень.exe
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\bin\Debug\Ясень.pdb
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.csprojResolveAssemblyReference.cache
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.Form1.resources
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.Properties.Resources.resources
+C:\Games\FTP\Рогов Виктор\Институт\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.csproj.GenerateResource.Cache
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\bin\Debug\Ясень.exe.config
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\bin\Debug\Ясень.exe
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\bin\Debug\Ясень.pdb
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.csprojAssemblyReference.cache
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.Form1.resources
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.Properties.Resources.resources
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.csproj.GenerateResource.cache
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.exe
+C:\Users\Nik36\Desktop\Бакалавриат\2 курс\4 семестр\САОД\САОД\САОД\Ясень 2\Ясень\obj\Debug\Ясень.pdb
